@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+	<inputs>
+		<actions>
+			<input name="UAPGSecondary" loc="Gravity gun: punt / throw - Portal gun: orange portal" />
+			<input name="UAPGMode" loc="Portal gun: blue / orange (also the fire mode button)" />
+		</actions>
+		<sorting name="physguns" loc="PhysGuns">
+			<input name="UAPGSecondary" />
+			<input name="UAPGMode" />
+		</sorting>
+	</inputs>
+	<preset>
+		<input name="UAPGSecondary">
+			<btn name="mBMiddle" />
+		</input>
+		<input name="UAPGMode">
+			<btn name="kB" />
+		</input>
+	</preset>
+</modded_inputs>

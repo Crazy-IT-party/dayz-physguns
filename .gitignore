@@ -1,0 +1,6 @@
+# scratch and output of the optional tools/ scripts
+build/
+dist/
+__pycache__/
+# machine-specific helpers (devices, local paths) - kept out of the repo
+local/
